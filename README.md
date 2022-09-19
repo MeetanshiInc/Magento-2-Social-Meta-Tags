@@ -1,4 +1,5 @@
-## Magento 2 eWay Recurring & Subscriptions
+## Magento 2 Social Meta Tags
+
 
 ***[Magento 2 Social Meta Tags](https://meetanshi.com/magento-2-social-meta-tags.html)*** by Meetanshi enables open graph tags, twitter cards for store's web pages.
 
